@@ -7,6 +7,7 @@ public class Main {
         User user1 = new User("1", "1", "1", false);
         User user2 = new User("2", "2", "2", true);
 
+
         search.getData().add(user1);
         search.getData().add(user2);
 
